@@ -1,5 +1,9 @@
 #!/bin/bash
+
 pwd
+
+ls
+
 t_path=./translations
 
 mkdir $t_path

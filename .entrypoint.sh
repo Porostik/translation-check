@@ -4,6 +4,8 @@ pwd
 
 ls -a
 
+ls -a /
+
 t_path=./translations
 
 mkdir $t_path
@@ -28,4 +30,4 @@ done
 echo $main
 echo $files
 
-node index.js -m $main -f $files
+node /index.js -m $main -f $files

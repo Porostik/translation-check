@@ -2,7 +2,7 @@
 
 pwd
 
-ls
+ls -a
 
 t_path=./translations
 
